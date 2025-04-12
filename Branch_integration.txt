@@ -1,0 +1,1 @@
+# pratices integration github with jira (branch integration process)
